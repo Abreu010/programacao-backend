@@ -22,5 +22,5 @@ const livro3 = {
   estoque: 8,
 };
 
-// Exportando os três livros para o mostrar.js usar
+// Exportando os três livros para o mostrar.js usaryttfu
 module.exports = { livro1, livro2, livro3 };
